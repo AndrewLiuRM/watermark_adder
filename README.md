@@ -9,12 +9,12 @@ pip install Pillow
 ```
 
 # Command Line Arguments
-Usage: ./watermark.py [type] [int] [inputfile_path] [outputfile_path] [watermark_path]\n<br />
-type:    -t  text watermark\n<br />
-         -i  image watermark\n\n<br />
-int:     0   left top corner\n<br />
-int:     1   right top corner\n<br />
-int:     2   left bottom corner\n<br />
-int:     3   right bottom corner\n<br />
+Usage: ./watermark.py [type] [int] [inputfile_path] [outputfile_path] [watermark_path]<br />
+type:    -t  text watermark<br />
+         -i  image watermar<br /><br />
+int:     0   left top corner<br />
+int:     1   right top corner<br />
+int:     2   left bottom corner<br />
+int:     3   right bottom corner<br />
 
 File Pathes should be in absolute pathes.<br />
