@@ -11,7 +11,7 @@ pip install Pillow
 # Command Line Arguments
 Usage: ./watermark.py [type] [int] [inputfile_path] [outputfile_path] [watermark_path]<br />
 type:    -t  text watermark<br />
-         -i  image watermar<br /><br />
+type:    -i  image watermar<br /><br />
 int:     0   left top corner<br />
 int:     1   right top corner<br />
 int:     2   left bottom corner<br />
